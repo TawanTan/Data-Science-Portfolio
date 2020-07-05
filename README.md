@@ -23,7 +23,7 @@ This repository shows various projects about Machine Learning by using Python (J
 ### [Used Cars Price Prediction](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Used-Cars-Price-Prediction/Used-Cars-Price-Prediction.ipynb)
 ![Cars](https://live.staticflickr.com/5052/5503668485_33e8c42932_w.jpg)
 - Predict used cars price in United States on Craigslist.
-- Used 4 models and parameters tuning to predict.
+- Used 4 models to predict.
     - Linear Regression
     - Random Forest
     - Decision Tree

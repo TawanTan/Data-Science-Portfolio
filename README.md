@@ -31,7 +31,7 @@ This repository shows various projects about Machine Learning by using Python (J
 - Compare MAE, MSE, RMSE and R-Squared for each model.
 
 ---
-### [Funny Boiled Eggs level](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%82%E0%B9%88.pdf)
+### [Funny Boiled Eggs level](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
 
 ![2kplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/image016%20copy.png)
 

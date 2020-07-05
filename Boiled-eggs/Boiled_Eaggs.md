@@ -59,6 +59,7 @@ Result table
  - If the analysis results from the 2<sup>k</sup> factorial method shows two or more factors, use the experimental point(treatment) increase in 2<sup>k</sup> factorial.
  - If there is only 1, use the One-Way ANOVA design.
 
+![EffectGraph](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EffectGraph.png "title-1") ![EffectChart](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EffectChart.png "title-1")
 
 
 

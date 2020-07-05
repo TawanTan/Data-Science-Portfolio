@@ -71,7 +71,7 @@ Factor A has a significant effect on the level ripeness of boiled eggs (P-value 
 
 Model Adequacy Checking
 
-![NormPlot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot.png "title-1") ![](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq.png "title-2") ![](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance.png "title-3")
+![NormPlot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot.png "title-1") ![TimeSeq](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq.png "title-2") ![V](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance.png "title-3")
 
 Shows that the data obtained from the results are suitable to the statistical model of the 2<sup>3</sup> factorial
 
@@ -94,3 +94,52 @@ H1 : μi ≠ μj,for at least one pair (i,j)
 By μ1, μ2, μ3 are mean cooking levels at 92, 89, 86, 83  
 
 Model Adequacy Checking
+
+![NormPlot2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot2.png "title-1") ![TimeSeq2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq2.png "title-2") ![V2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance2.png "title-3")
+
+From the first one you can see that the graph has a tende in linear, showing that the data obtained from the experiment has normal distribution.  
+From the second one, you can see that there are no pattern signs indicating the abnormalities of data.  
+From the third one, you can see that there are no pattern in megaphone indicating the abnormalities.
+
+|Source of variation|Sum of squares|Degree of freedom|Mean squares|F-value|P-value|
+|:------------------|:------------:|:---------------:|:----------:|:-----:|:-----:|
+|Temperature        |     8.500    |        4        |   2.125    | 5.95  | 0.021 |
+|Error              |     2.500    |        7        |    0.357   |
+|Total              |     11.000   |        11       |
+
+F-value = 5.95 > f 0.05,4,7 = 4.12  
+Reject H0 and conclude that temperature affects the ripeness of the eggs  
+*Note  
+The conclusion can only shows that different temperatures affect the ripeness of the eggs on average significantly. But can't tell how the different temperatures affect the ripeness of the eggs
+
+## Multiple Comparisons
+
+### The least significant difference method (LSD) or Fisher
+Grouping Information Using Fisher Method  
+ 
+|temp|  N  |  Mean  |Grouping|
+|:--:|:---:|:------:|:------:|
+|92  |  3  |7.6667  |A       |
+|89  |  3  |6.6667  |A B     |
+|86  |  3  |6.3333  |  B C   |
+|83  |  3  |5.3333  |    C   |
+ 
+The LSD method shows that There weren't  significant differences in temperature between 89 ° c and 86 ° c.
+ 
+### The Tukey's test
+Grouping Information Using Tukey Method
+
+|temp|  N  |  Mean  |Grouping|
+|:--:|:---:|:------:|:------:|
+|92  |  3  |7.6667  |A       |
+|89  |  3  |6.6667  |A B     |
+|86  |  3  |6.3333  |A B     |
+|83  |  3  |5.3333  |  B     |
+
+The Tukey's test shows that There weren't  significant differences in temperature between 89 ° c and 86 ° c.
+
+## Conclusion
+There is only one factor, that is the temperature that has a significant effect. Therefore temperature is used as a single factor experiment By determining the time of boiling for 12 minutes and the water level of 0.8 liters because it is the level of the factor that causes the most cooked eggs. The results from a single factor experiment found that at 92 ° C the average cooking levels was as close as 95 ° C. Therefore, the temperature was chosen to be 92 ° C because of the economic factors and eggs still having the highest level of ripeness
+
+
+

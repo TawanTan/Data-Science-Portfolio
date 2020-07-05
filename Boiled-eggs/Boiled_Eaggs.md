@@ -50,11 +50,37 @@ Result table
 |  7  	|	80	|	12  |	0.8   |   5   |
 |  8  	|	95	|  	12 	|	0.8   |   8   |
  
+ ![cubeplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/2kCube.png)
+ 
+ 
+ 
+ 
  Analyze result by using Minitab program 
  - If the analysis results from the 2<sup>k</sup> factorial method shows two or more factors, use the experimental point(treatment) increase in 2<sup>k</sup> factorial.
  - If there is only 1, use the One-Way ANOVA design.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Model Adequacy Checking
+
+![NormPlot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot.png "title-1") ![](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq.png "title-2") ![](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance.png "title-3")
 
 
 

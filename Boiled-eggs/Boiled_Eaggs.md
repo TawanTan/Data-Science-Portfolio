@@ -1,7 +1,8 @@
 # Funny Boiled Eggs 
 
 &emsp;This project was a part of the Design of Engineer Experiment course while I was studying at university. To study and understandingthe experiment with 2<sup>k</sup> factorial designs.  
-&emsp;In my province Buddha Sothorn buddha statue is very famous. People believe that they must worship him with many many boiled eggs like thousand. So we need many eggs with inside are cooked and all solid. But we still want to save the production cost as much as possible. Therefore, we designed this experiment by using The 2<sup>k</sup> factorial design to find the factors and treatment for boiling the eggs with inside are cooked and all solid.
+&emsp;In my province Buddha Sothorn buddha statue is very famous. People believe that they must worship him with many many boiled eggs like thousand. So we need many eggs with inside are cooked and all solid. But we still want to save the production cost as much as possible. Therefore, we designed this experiment by using The 2<sup>k</sup> factorial design to find the factors and treatment for boiling the eggs with inside are cooked and all solid.  
+![Sothron](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/SothornEggs.jpeg)
 
 ## Experiment design
 
@@ -72,6 +73,8 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 
 &emsp; Shows that the data obtained from the results are suitable to the statistical model of the 2<sup>3</sup> factorial
 
+---
+
 ### One-Way ANOVA
 &emsp; The only significant factor effecting the boiled eggs is temperature. Therefore, additional experiments were carried by designing a single factor experiment.
 
@@ -106,6 +109,8 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 &emsp;&emsp;```Reject H0``` and conclude that temperature affects the ripeness of the eggs  
 - Note  
 The conclusion can only shows that different temperatures affect the ripeness of the eggs on average significantly. But can't tell how the different temperatures affect the ripeness of the eggs
+
+---
 
 ### Multiple Comparisons
 

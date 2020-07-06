@@ -1,5 +1,5 @@
 # Tawan's Portfolio
----
+
 This repository shows various projects about Machine Learning by using Python (Jupiter Notebook) and my projects when i was at university. Click on the projects to see details.
 
 ## Certificates
@@ -7,7 +7,7 @@ This repository shows various projects about Machine Learning by using Python (J
 - [Coursera The Data Scientist’s Toolbox](https://github.com/TawanTan/Tawan-Tantakull-Portfolio/blob/master/My_certificate/Coursera%20The%20Data%20Scientist%E2%80%99s%20Toolbox.pdf)
 
 ## Project
----
+
 ### [Rain in Australia Prediction](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Rain-in-Australia-Prediction/Rain-in-Australia-Prediction.ipynb)
 ![Rain](https://media1.tenor.com/images/735e68b36fb24b5cadda815230daad05/tenor.gif?itemid=13649339)
 - Predict whether it will rain tomorrow or not.

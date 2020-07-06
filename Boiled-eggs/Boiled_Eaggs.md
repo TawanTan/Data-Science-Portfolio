@@ -1,10 +1,9 @@
 # Funny Boiled Eggs 
----
+
 This project was a part of the Design of Engineer Experiment course while I was studying at university. To study the experiment with 2<sup>k</sup> factorial designs.  
 
----
-## The idea is...
 Boiled eggs are easy to make. But not easy to make delicious We therefore designed this experiment by using The 2<sup>k</sup> Factorial Design.  
+## Experiment design
 
 ### Factors
 - Temperature
@@ -14,9 +13,8 @@ Boiled eggs are easy to make. But not easy to make delicious We therefore design
 - Levels of boiled eggs By following the levels as shown below
 ![EggsLeavels](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EggsLevels.jpg)
 
-### Experiment design
-- Boils eggs by following contrast coefficients 2<sup>3</sup> table below  
-<center>
+### Treatment combination
+Boils eggs by following contrast coefficients 2<sup>3</sup> table below  
 
 |Run	|	A	|	B	|	C   |
 |:-----:|:-----:|:-----:|:-----:|
@@ -29,16 +27,15 @@ Boiled eggs are easy to make. But not easy to make delicious We therefore design
 |  7  	|	-	|	-  	|	+   |
 |  8  	|	+	|  	-  	|	+   |  
 
-</center>
-
 - Note  
     - A is the temperature with high (+) and low (-) levels of 80 degrees Celsius and 95 degrees Celsius  
     - B is the time with high level (+) and low (-) of 9 minutes and 12 minutes
     - C is the water level with high (+) and low (-) of 0.4 liters and 0.8 liters
----
+
 ## Data analysis
-Analyze result by using Minitab program   
-Result table
+
+### 2<sup>k</sup> factorial 
+
 |Run	|	 Temperatur	|	Time	|	Water level   |  Response|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |  1	|	80	|	9	|	0.4   |   3   |
@@ -57,7 +54,7 @@ Result table
 
 ![EffectGraph](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EffectGraph.png "title-1") ![EffectChart](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EffectChart.png "title-1")
 
-The normal plot of the estimator of all influences and Pareto Chart shows that ```A (temperature)``` has a significant impact on the ripeness level of boiled eggs
+&emsp; The normal plot of the estimator of all influences and Pareto Chart shows that ```A (temperature)``` has a significant impact on the ripeness level of boiled eggs.
 
 |Source of variation|Sum of squares|Degree of freedom|Mean squares|F-value|P-value|
 |:------------------|:------------:|:---------------:|:----------:|:-----:|:-----:|
@@ -67,17 +64,15 @@ The normal plot of the estimator of all influences and Pareto Chart shows that `
 |Pure Error         |     4.7500   |        6        |   0.7917   |
 |Total              |     19.8750  |        7        |
 
-Factor A has a significant effect on the level ripeness of boiled eggs (P-value <0.05), which confirms the analysis results obtained from The normal plot of the estimator of all influences. Therefore use The ```One-Way ANOVA``` design.
+&emsp; Factor A has a significant effect on the level ripeness of boiled eggs (P-value <0.05), which confirms the analysis results obtained from The normal plot of the estimator of all influences. Therefore use The ```One-Way ANOVA``` design.
 
-Model Adequacy Checking
+#### Model Adequacy Checking
 
 ![NormPlot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot.png "title-1") ![TimeSeq](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq.png "title-2") ![V](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance.png "title-3")
 
-Shows that the data obtained from the results are suitable to the statistical model of the 2<sup>3</sup> factorial
+&emsp; Shows that the data obtained from the results are suitable to the statistical model of the 2<sup>3</sup> factorial
 
----
-
-## One-Way ANOVA
+### One-Way ANOVA
 The only significant factor effecting the boiled eggs is temperature. Therefore, additional experiments were carried by designing a single factor experiment.
 
 |temperature|1    |  2  |   3   |  mean |
@@ -88,18 +83,18 @@ The only significant factor effecting the boiled eggs is temperature. Therefore,
 |83	        |  5  |  5  |	 6  |	5.33|
 *Three replicate
 
-### Hypothesis testing
-H0 : μ1 = μ2 = μ3  
-H1 : μi ≠ μj,for at least one pair (i,j)  
-By μ1, μ2, μ3 are mean cooking levels at 92, 89, 86, 83  
+#### Hypothesis testing
+&emsp;&emsp;&emsp;&emsp;H0 : μ1 = μ2 = μ3  
+&emsp;&emsp;&emsp;&emsp;H1 : μi ≠ μj,for at least one pair (i,j)  
+&emsp;&emsp;&emsp;&emsp;By μ1, μ2, μ3 are mean cooking levels at 92, 89, 86, 83  
 
-Model Adequacy Checking
+#### Model Adequacy Checking
 
 ![NormPlot2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot2.png "title-1") ![TimeSeq2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq2.png "title-2") ![V2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance2.png "title-3")
 
-From the first one you can see that the graph has a tende in linear, showing that the data obtained from the experiment has normal distribution.  
-From the second one, you can see that there are no pattern signs indicating the abnormalities of data.  
-From the third one, you can see that there are no pattern in megaphone indicating the abnormalities.
+- From the first one you can see that the graph has a tende in linear, showing that the data obtained from the experiment has normal distribution.  
+- From the second one, you can see that there are no pattern signs indicating the abnormalities of data.  
+- From the third one, you can see that there are no pattern in megaphone indicating the abnormalities.
 
 |Source of variation|Sum of squares|Degree of freedom|Mean squares|F-value|P-value|
 |:------------------|:------------:|:---------------:|:----------:|:-----:|:-----:|
@@ -107,14 +102,14 @@ From the third one, you can see that there are no pattern in megaphone indicatin
 |Error              |     2.500    |        7        |    0.357   |
 |Total              |     11.000   |        11       |
 
-F-value = 5.95 > f 0.05,4,7 = 4.12  
-Reject H0 and conclude that temperature affects the ripeness of the eggs  
-*Note  
+&emsp;&emsp;```F-value = 5.95 > f 0.05,4,7 = 4.12```  
+&emsp;&emsp;```Reject H0``` and conclude that temperature affects the ripeness of the eggs  
+- Note  
 The conclusion can only shows that different temperatures affect the ripeness of the eggs on average significantly. But can't tell how the different temperatures affect the ripeness of the eggs
 
-## Multiple Comparisons
+### Multiple Comparisons
 
-### The least significant difference method (LSD) or Fisher
+#### The least significant difference method (LSD) or Fisher
 Grouping Information Using Fisher Method  
  
 |temp|  N  |  Mean  |Grouping|
@@ -123,10 +118,10 @@ Grouping Information Using Fisher Method
 |89  |  3  |6.6667  |A B     |
 |86  |  3  |6.3333  |  B C   |
 |83  |  3  |5.3333  |    C   |
- 
+
 The LSD method shows that There weren't  significant differences in temperature between 89 ° c and 86 ° c.
  
-### The Tukey's test
+#### The Tukey's test
 Grouping Information Using Tukey Method
 
 |temp|  N  |  Mean  |Grouping|
@@ -139,7 +134,7 @@ Grouping Information Using Tukey Method
 The Tukey's test shows that There weren't  significant differences in temperature between 89 ° c and 86 ° c.
 
 ## Conclusion
-There is only one factor, that is the temperature that has a significant effect. Therefore temperature is used as a single factor experiment By determining the time of boiling for 12 minutes and the water level of 0.8 liters because it is the level of the factor that causes the most cooked eggs. The results from a single factor experiment found that at 92 ° C the average cooking levels was as close as 95 ° C. Therefore, the temperature was chosen to be 92 ° C because of the economic factors and eggs still having the highest level of ripeness
+&emsp;There is only one factor, that is the temperature that has a significant effect. Therefore temperature is used as a single factor experiment by determine the time of boiling for 12 minutes and the water level of 0.8 liters because it is the level of the factor that causes the most cooked eggs. The results from a single factor experiment found that at 92 ° C the average cooking levels was as close as 95 ° C. Therefore, the temperature was chosen to be 92 ° C because of the economic factors and eggs still having the highest level of ripeness
 
 
 

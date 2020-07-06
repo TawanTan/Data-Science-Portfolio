@@ -95,7 +95,7 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 
 ![NormPlot2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/Normal_plot2.png "title-1") ![TimeSeq2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/TimeSeq2.png "title-2") ![V2](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/ConVariance2.png "title-3")
 
-- From the first one you can see that the graph has a tende in linear, showing that the data obtained from the experiment has normal distribution.  
+- From the first one you can see that the graph has a trend in linear, showing that the data obtained from the experiment has normal distribution.  
 - From the second one, you can see that there are no pattern signs indicating the abnormalities of data.  
 - From the third one, you can see that there are no pattern in megaphone indicating the abnormalities.
 

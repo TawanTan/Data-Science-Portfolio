@@ -40,9 +40,15 @@ This repository shows various projects about Machine Learning by using Python (J
     - The least significant difference method (LSD) or Fisher
     - The Tukey's test
 ---
-### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%20completed.pdf)
+### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/Project_Feas_Jeans_in_mor.pdf)
 
-using minatab
+- PESTLE Analysis, Five Force Model
+- Marketing Strategy and Demand Analysis (Forecasting)
+    - Linear Regression
+    - Exponentail
+    - Quadratic
+- Financial plans and investment budgets
+- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%20completed.pdf)
 
 ---
 ### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99.pdf)  

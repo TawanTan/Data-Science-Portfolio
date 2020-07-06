@@ -31,7 +31,7 @@ This repository shows various projects about Machine Learning by using Python (J
 ---
 ### [Funny Boiled Eggs level](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
 
-![Eggs](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/CoverImage%20copy.jpg)
+![Eggs](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/CoverImage%20copy.jpg)  
 ![2kplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/2kCube.png)
 - Designed experiment by using The 2<sup>k</sup> factorial
 - Used One-Way ANOVA for single factor experiment

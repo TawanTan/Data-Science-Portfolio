@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Tawan's Portfolio
 ---
 This repository shows various projects about Machine Learning by using Python (Jupiter Notebook) and my projects when i was in university. Click on the projects to see details.
 
@@ -29,7 +29,7 @@ This repository shows various projects about Machine Learning by using Python (J
 - Compare MAE, MSE, RMSE and R-Squared for each model.
 
 ---
-### [Funny Boiled Eggs level](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
+### [Funny Boiled Eggs](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
 
 ![Eggs](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/CoverImage%20copy.jpg)  
 ![2kplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/2kCube.png)
@@ -52,6 +52,13 @@ This repository shows various projects about Machine Learning by using Python (J
 - Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%20completed.pdf)
 
 ---
-### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99.pdf)  
-(The Bachelor's Degree Final Project)
+### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%B4%E0%B8%88.pdf)  
+My internship project
+- Gather data by using Direct time study and Micromotion study 
+- 8 waste analysis to find various waste
+- 7 QC Tool such as Why-Why annalysis and Fishbone diagram
+- Man&Machine Chart and ECRS to improve process
+- Comparison of %Utilization and Cost savings  
+- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99.pdf)
+
 

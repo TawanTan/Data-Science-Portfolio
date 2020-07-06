@@ -1,6 +1,6 @@
 # Tawan's Portfolio
 ---
-This repository shows various projects about Machine Learning by using Python (Jupiter Notebook) and my projects when i was in university. Click on the projects to see details.
+This repository shows various projects about Machine Learning by using Python (Jupiter Notebook) and my projects when i was at university. Click on the projects to see details.
 
 ## Project
 ---
@@ -18,6 +18,7 @@ This repository shows various projects about Machine Learning by using Python (J
 - Compare accuracy score, f1 score, precision score and recall score for each model.
 
 ---
+
 ### [Used Cars Price Prediction](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Used-Cars-Price-Prediction/Used-Cars-Price-Prediction.ipynb)
 ![Cars](https://live.staticflickr.com/5052/5503668485_33e8c42932_w.jpg)
 - Predict used cars price in United States on Craigslist.
@@ -29,6 +30,7 @@ This repository shows various projects about Machine Learning by using Python (J
 - Compare MAE, MSE, RMSE and R-Squared for each model.
 
 ---
+
 ### [Funny Boiled Eggs](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
 
 ![Eggs](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/CoverImage.jpg)  
@@ -39,7 +41,9 @@ This repository shows various projects about Machine Learning by using Python (J
 - Multiple comparisons treatment
     - The least significant difference method (LSD) or Fisher
     - The Tukey's test
+
 ---
+
 ### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/Project_Feas_Jeans_in_mor.pdf)
 
 ![Jeans](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Project-Feasibility-Study/JeansCover.png)

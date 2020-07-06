@@ -1,8 +1,8 @@
 # Funny Boiled Eggs 
 
-This project was a part of the Design of Engineer Experiment course while I was studying at university. To study the experiment with 2<sup>k</sup> factorial designs.  
+&emsp;This project was a part of the Design of Engineer Experiment course while I was studying at university. To study and understandingthe experiment with 2<sup>k</sup> factorial designs.  
+&emsp;In my province Buddha Sothorn buddha statue is very famous. People believe that they must worship him with many many boiled eggs like thousand. So we need many eggs with inside are cooked and all solid. But we still want to save the production cost as much as possible. Therefore, we designed this experiment by using The 2<sup>k</sup> factorial design to find the factors and treatment for boiling the eggs with inside are cooked and all solid.
 
-Boiled eggs are easy to make. But not easy to make delicious We therefore designed this experiment by using The 2<sup>k</sup> Factorial Design.  
 ## Experiment design
 
 ### Factors
@@ -10,7 +10,7 @@ Boiled eggs are easy to make. But not easy to make delicious We therefore design
 - Time
 - Water level
 ### Response
-- Levels of boiled eggs By following the levels as shown below
+- Level of boiled eggs By following the levels as shown below
 ![EggsLeavels](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/EggsLevels.jpg)
 
 ### Treatment combination
@@ -73,7 +73,7 @@ Boils eggs by following contrast coefficients 2<sup>3</sup> table below
 &emsp; Shows that the data obtained from the results are suitable to the statistical model of the 2<sup>3</sup> factorial
 
 ### One-Way ANOVA
-The only significant factor effecting the boiled eggs is temperature. Therefore, additional experiments were carried by designing a single factor experiment.
+&emsp; The only significant factor effecting the boiled eggs is temperature. Therefore, additional experiments were carried by designing a single factor experiment.
 
 |temperature|1    |  2  |   3   |  mean |
 |:---------:|:---:|:---:|:-----:|:-----:|
@@ -86,7 +86,7 @@ The only significant factor effecting the boiled eggs is temperature. Therefore,
 #### Hypothesis testing
 &emsp;&emsp;&emsp;&emsp;H0 : μ1 = μ2 = μ3  
 &emsp;&emsp;&emsp;&emsp;H1 : μi ≠ μj,for at least one pair (i,j)  
-&emsp;&emsp;&emsp;&emsp;By μ1, μ2, μ3 are mean cooking levels at 92, 89, 86, 83  
+&emsp;&emsp;&emsp;&emsp;By μ1, μ2, μ3 are mean ripeness level of boiled eggs at 92, 89, 86, 83  
 
 #### Model Adequacy Checking
 
@@ -134,7 +134,7 @@ Grouping Information Using Tukey Method
 The Tukey's test shows that There weren't  significant differences in temperature between 89 ° c and 86 ° c.
 
 ## Conclusion
-&emsp;There is only one factor, that is the temperature that has a significant effect. Therefore temperature is used as a single factor experiment by determine the time of boiling for 12 minutes and the water level of 0.8 liters because it is the level of the factor that causes the most cooked eggs. The results from a single factor experiment found that at 92 ° C the average cooking levels was as close as 95 ° C. Therefore, the temperature was chosen to be 92 ° C because of the economic factors and eggs still having the highest level of ripeness
+&emsp;There is only one factor, that is the temperature that has a significant effect. Therefore temperature is used as a single factor experiment by determine the time of boiling for 12 minutes and the water level of 0.8 liters because it is the level of the factor that causes the most cooked eggs. The results from a single factor experiment found that at 92 ° C the average ripeness level of boiled eggs was as close as 95 ° C. Therefore, the temperature was chosen to be 92 ° C because of the economic factors and eggs still having the highest level of ripeness
 
 
 

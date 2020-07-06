@@ -17,8 +17,6 @@ This repository shows various projects about Machine Learning by using Python (J
     - Naive Bayes
 - Compare accuracy score, f1 score, precision score and recall score for each model.
 
-
-
 ---
 ### [Used Cars Price Prediction](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Used-Cars-Price-Prediction/Used-Cars-Price-Prediction.ipynb)
 ![Cars](https://live.staticflickr.com/5052/5503668485_33e8c42932_w.jpg)
@@ -33,7 +31,8 @@ This repository shows various projects about Machine Learning by using Python (J
 ---
 ### [Funny Boiled Eggs level](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/Boiled_Eaggs.md)
 
-![2kplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/image016%20copy.png)
+![](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/CoverImage.jpg)
+![2kplot](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/2kCube.png)
 
 ---
 ### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%20completed.pdf)

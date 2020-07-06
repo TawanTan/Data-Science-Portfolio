@@ -1,6 +1,6 @@
 # Funny Boiled Eggs 
 
-&emsp;This project was a part of the Design of Engineer Experiment course while I was studying at university. To study and understandingthe experiment with 2<sup>k</sup> factorial designs.  
+&emsp;This project was a part of the Design of Engineer Experiment course while I was studying at university. To study and understandingthe experiment with 2<sup>k</sup> factorial designs by using ```Minitab``` program to analyze. Click here to see project [original version](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Boiled-eggs/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%82%E0%B9%88.pdf)  
 &emsp;In my province Buddha Sothorn buddha statue is very famous. People believe that they must worship him with many many boiled eggs like thousand. So we need many eggs with inside are cooked and all solid. But we still want to save the production cost as much as possible. Therefore, we designed this experiment by using The 2<sup>k</sup> factorial design to find the factors and treatment for boiling the eggs with inside are cooked and all solid.  
 ![Sothron](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Boiled-eggs/SothornEggs.jpeg)
 

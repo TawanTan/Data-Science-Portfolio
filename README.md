@@ -52,7 +52,7 @@ This repository shows various projects about Machine Learning by using Python (J
 - Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%20completed.pdf)
 
 ---
-### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%B4%E0%B8%88.pdf)  
+### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/Intership_project.pdf)  
 
 ![PCB](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Line-Balancing/PCB.png)
 
@@ -62,6 +62,6 @@ My internship project
 - 7 QC Tool such as Why-Why annalysis and Fishbone diagram
 - Man&Machine Chart and ECRS to improve process
 - Comparison of %Utilization and Cost savings  
-- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99.pdf)
+- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/Full_report.pdf)
 
 

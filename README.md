@@ -42,6 +42,7 @@ This repository shows various projects about Machine Learning by using Python (J
 ---
 ### [Project Feasibility Saling Jeans](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/Project_Feas_Jeans_in_mor.pdf)
 
+![Jeans](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Project-Feasibility-Study/JeansCover.png)
 - PESTLE Analysis, Five Force Model
 - Marketing Strategy and Demand Analysis (Forecasting)
     - Linear Regression

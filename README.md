@@ -53,6 +53,9 @@ This repository shows various projects about Machine Learning by using Python (J
 
 ---
 ### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%B4%E0%B8%88.pdf)  
+
+![PCB](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Line-Balancing/PCB.png)
+
 My internship project
 - Gather data by using Direct time study and Micromotion study 
 - 8 waste analysis to find various waste

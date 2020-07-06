@@ -49,9 +49,10 @@ This repository shows various projects about Machine Learning by using Python (J
     - Exponentail
     - Quadratic
 - Financial plans and investment budgets
-- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1%20completed.pdf)
+- Click here to see [Full report](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Project-Feasibility-Study/Full_report_Jeans.pdf)
 
 ---
+
 ### [Productivity Impovement of Printed Circuit Board Manufacturing Process by Line Balancing Technique](https://github.com/TawanTan/Data-Science-Portfolio/blob/master/Line-Balancing/Intership_project.pdf)  
 
 ![PCB](https://raw.githubusercontent.com/TawanTan/Data-Science-Portfolio/master/Line-Balancing/PCB.png)
